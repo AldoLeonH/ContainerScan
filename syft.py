@@ -12,8 +12,6 @@ from openpyxl.styles import PatternFill, Font, Alignment, Border, Side
 # -----------------------------------------------------------
 # This script automates scanning a container image using Syft,
 # extracts component information, and generates an Excel file
-#
-# This script was created by Aldo Leon with help from ChatGPT.
 # -----------------------------------------------------------
 
 # Ensure the Output directory exists
